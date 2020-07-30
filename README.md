@@ -1,5 +1,7 @@
 
-# Table of Contents
+# West Marches D&D
+
+## Table of Contents
 
 1.  [Resources](#org9c8dbe2)
 2.  [Designed for:](#orgfec294c)
@@ -44,7 +46,7 @@ Joel Hooks Made the connection between [the knowledge hydrant](https://www.indus
 
 <a id="orgfec294c"></a>
 
-# Designed for:
+# West Marches Style D&D Designed for:
 
 -   There was no regular time: every session was scheduled by the players on the fly
 -   There was no regular party: each game had different players drawn from a pool of around 10-14 people.
