@@ -22,16 +22,16 @@
 
 # Resources
 
--   [The West Marches pt 1](https://www.youtube.com/redirect?v=oGAC-gBoX9k&redir_token=QUFFLUhqbkxsUXFDWHh2T1U5b0t2SWZMNHAya1UxQlVsd3xBQ3Jtc0tteWliQTNNYmY5NWFkdV9POTBMb2huWmtvblh0ZG1kN2ZrOTlIeGZkZW80UHJlcTVQZUhMazhXRTluWllQQkRJRkkzRG5KT2JfRE0wUVdwVXp6MzktcW03U2tKRjh6Nk5yWmNKTzYwVzZJSkhzQUpNYw%3D%3D&event=video_description&q=http%3A%2F%2Farsludi.lamemage.com%2Findex.php%2F78%2Fgrand-experiments-west-marches%2F) [3](#org1bbd63e)
--   [The West Marches pt 2](http://arsludi.lamemage.com/index.php/79/grand-experiments-west-marches-part-2-sharing-info/) [5](#org3009d4e)
--   [The West MArches pt 3](http://arsludi.lamemage.com/index.php/80/grand-experiments-west-marches-part-3-recycling/) [6](#org7828170)
--   [The West Marches pt 4](http://arsludi.lamemage.com/index.php/81/grand-experiments-west-marches-part-4-death-danger/) [7](#orgdc60aad)
+-   [The West Marches pt 1](https://www.youtube.com/redirect?v=oGAC-gBoX9k&redir_token=QUFFLUhqbkxsUXFDWHh2T1U5b0t2SWZMNHAya1UxQlVsd3xBQ3Jtc0tteWliQTNNYmY5NWFkdV9POTBMb2huWmtvblh0ZG1kN2ZrOTlIeGZkZW80UHJlcTVQZUhMazhXRTluWllQQkRJRkkzRG5KT2JfRE0wUVdwVXp6MzktcW03U2tKRjh6Nk5yWmNKTzYwVzZJSkhzQUpNYw%3D%3D&event=video_description&q=http%3A%2F%2Farsludi.lamemage.com%2Findex.php%2F78%2Fgrand-experiments-west-marches%2F) [Basics](#org1bbd63e)
+-   [The West Marches pt 2](http://arsludi.lamemage.com/index.php/79/grand-experiments-west-marches-part-2-sharing-info/) [Sharing info](#org3009d4e)
+-   [The West MArches pt 3](http://arsludi.lamemage.com/index.php/80/grand-experiments-west-marches-part-3-recycling/) [Recycling](#org7828170)
+-   [The West Marches pt 4](http://arsludi.lamemage.com/index.php/81/grand-experiments-west-marches-part-4-death-danger/) [Death and Danger](#orgdc60aad)
 
--   [West Marches: Running Your Own](http://arsludi.lamemage.com/index.php/94/west-marches-running-your-own/) [8](#org7299be5)
+-   [West Marches: Running Your Own](http://arsludi.lamemage.com/index.php/94/west-marches-running-your-own/) [Running your own game](#org7299be5)
 -   [West Marches: Secrets and Answers](http://arsludi.lamemage.com/index.php/705/west-marches-secrets-answers-part-1/)
 
 -   [Why a west marches campaign needs a town](https://muleabides.wordpress.com/2009/12/23/why-a-west-marches-campaign-needs-a-town-moving-into-the-dungeon-pt-1/)
--   [The West Marches, Running the Game - Matt Coville](https://www.youtube.com/watch?v=oGAC-gBoX9k&feature=youtu.be) [9](#org91c4e36)
+-   [The West Marches, Running the Game - Matt Coville](https://www.youtube.com/watch?v=oGAC-gBoX9k&feature=youtu.be) [Youtube summary](#org91c4e36)
 
 
 <a id="orgfec294c"></a>
