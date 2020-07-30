@@ -40,7 +40,7 @@ How does this relate to a knowledge adventure club?
 
 ![](https://github.com/zacjones93/west-marches/blob/master/knowledge-adventure-club.jpg)
 
-Joel Hooks Made the connection between [the knowledge hydrant](https://www.industriallogic.com/papers/khdraft.pdf) and how that maps to D&D that you see above ([link](https://twitter.com/jhooks/status/1287446751847186432).
+Joel Hooks Made the connection between [the knowledge hydrant](https://www.industriallogic.com/papers/khdraft.pdf) and how that maps to D&D that you see above ([link](https://twitter.com/jhooks/status/1287446751847186432)).
 
 <a id="orgfec294c"></a>
 
