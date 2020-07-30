@@ -38,7 +38,7 @@
 
 How does this relate to a knowledge adventure club?
 
-
+![](https://github.com/zacjones93/west-marches/blob/master/knowledge-adventure-club.jpg
 
 <a id="orgfec294c"></a>
 
