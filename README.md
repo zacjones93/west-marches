@@ -22,7 +22,7 @@
 
 <a id="org9c8dbe2"></a>
 
-# Resources
+## Resources
 
 -   📃 [The West Marches pt 1](https://www.youtube.com/redirect?v=oGAC-gBoX9k&redir_token=QUFFLUhqbkxsUXFDWHh2T1U5b0t2SWZMNHAya1UxQlVsd3xBQ3Jtc0tteWliQTNNYmY5NWFkdV9POTBMb2huWmtvblh0ZG1kN2ZrOTlIeGZkZW80UHJlcTVQZUhMazhXRTluWllQQkRJRkkzRG5KT2JfRE0wUVdwVXp6MzktcW03U2tKRjh6Nk5yWmNKTzYwVzZJSkhzQUpNYw%3D%3D&event=video_description&q=http%3A%2F%2Farsludi.lamemage.com%2Findex.php%2F78%2Fgrand-experiments-west-marches%2F) | 📝 [Basics](#org1bbd63e)
 -   📃 [The West Marches pt 2](http://arsludi.lamemage.com/index.php/79/grand-experiments-west-marches-part-2-sharing-info/) | 📝 [Sharing info](#org3009d4e)
